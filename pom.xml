@@ -70,6 +70,12 @@
             <version>8.0.17</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.webjars.bower</groupId>
+            <artifactId>jquery</artifactId>
+            <version>3.4.1</version>
+        </dependency>
+
 
     </dependencies>
 
